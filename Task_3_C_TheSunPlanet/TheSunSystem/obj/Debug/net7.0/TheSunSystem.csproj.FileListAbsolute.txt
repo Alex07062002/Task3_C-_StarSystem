@@ -1,0 +1,15 @@
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\bin\Debug\net7.0\TheSunSystem.exe
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\bin\Debug\net7.0\TheSunSystem.deps.json
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\bin\Debug\net7.0\TheSunSystem.runtimeconfig.json
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\bin\Debug\net7.0\TheSunSystem.dll
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\bin\Debug\net7.0\TheSunSystem.pdb
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.csproj.AssemblyReference.cache
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.AssemblyInfoInputs.cache
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.AssemblyInfo.cs
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.dll
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\refint\TheSunSystem.dll
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.pdb
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\TheSunSystem.genruntimeconfig.cache
+C:\Users\Alexey\RiderProjects\Task_3_C_TheSunPlanet\TheSunSystem\obj\Debug\net7.0\ref\TheSunSystem.dll
